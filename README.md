@@ -11,3 +11,7 @@ This can be used as checklist to correct the traditional way to code.
 
 
 This notebook is created by following video by raymond Hettinger - [Transforming Code into Beautiful, idiomatic Python](https://youtu.be/OSGv2VnC0go)
+
+## Some Useful links
+
+* http://www.informit.com/articles/index.aspx?st=86026
